@@ -1,0 +1,30 @@
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|188|6|1|Expected to find ')'.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|29|11|10|'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|109|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|143|35|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|154|40|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|354|26|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|372|34|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|406|40|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|551|43|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|580|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|719|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|837|54|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|902|37|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|951|27|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|962|56|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|974|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1001|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1053|43|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1170|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1198|49|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1199|31|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1379|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1391|28|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1482|47|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1525|47|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1643|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1666|48|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1691|50|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1718|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1738|42|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.

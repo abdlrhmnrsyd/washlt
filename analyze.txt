@@ -1,0 +1,58 @@
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|145|28|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|208|24|94|The argument type 'Object' can't be assigned to the parameter type 'Color?'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|209|36|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|209|36|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|545|36|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|574|26|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|689|21|18|The argument type 'Colors' can't be assigned to the parameter type 'Color'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|689|34|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|689|34|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|690|21|18|The argument type 'Colors' can't be assigned to the parameter type 'Color'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|690|34|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|690|34|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|713|26|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|850|20|98|The argument type 'Object' can't be assigned to the parameter type 'Color?'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|851|32|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|851|32|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|896|30|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1047|36|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|1055|28|18|The argument type 'Colors' can't be assigned to the parameter type 'Color?'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|1055|41|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|1055|41|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|INVALID_ASSIGNMENT|D:\\Flutter Project\\test\\lib\\main.dart|1155|19|18|A value of type 'Colors' can't be assigned to a variable of type 'Color'.
+ERROR|COMPILE_TIME_ERROR|NON_CONSTANT_DEFAULT_VALUE|D:\\Flutter Project\\test\\lib\\main.dart|1155|19|18|The default value of an optional parameter must be constant.
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|1155|32|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|1155|32|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1164|26|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1373|26|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|1404|34|18|The argument type 'Colors' can't be assigned to the parameter type 'Color?'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|1404|47|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|1404|47|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1476|40|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|ARGUMENT_TYPE_NOT_ASSIGNABLE|D:\\Flutter Project\\test\\lib\\main.dart|1515|30|18|The argument type 'Colors' can't be assigned to the parameter type 'Color?'. 
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|1515|43|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|1515|43|5|The class 'Colors' doesn't have a constant constructor 'white'.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1519|40|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1637|26|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|CREATION_WITH_NON_TYPE|D:\\Flutter Project\\test\\lib\\main.dart|1712|26|12|The name 'white' isn't a class.
+ERROR|COMPILE_TIME_ERROR|INVALID_ASSIGNMENT|D:\\Flutter Project\\test\\lib\\main.dart|1791|22|18|A value of type 'Colors' can't be assigned to a variable of type 'Color'.
+ERROR|COMPILE_TIME_ERROR|NON_CONSTANT_DEFAULT_VALUE|D:\\Flutter Project\\test\\lib\\main.dart|1791|22|18|The default value of an optional parameter must be constant.
+ERROR|SYNTACTIC_ERROR|EXPECTED_TOKEN|D:\\Flutter Project\\test\\lib\\main.dart|1791|35|5|Expected to find '('.
+ERROR|COMPILE_TIME_ERROR|CONST_WITH_UNDEFINED_CONSTRUCTOR|D:\\Flutter Project\\test\\lib\\main.dart|1791|35|5|The class 'Colors' doesn't have a constant constructor 'white'.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|28|11|10|'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|108|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|139|36|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|348|26|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|366|34|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|400|40|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|831|54|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|945|27|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|956|56|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|968|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|995|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1192|49|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1193|31|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1385|28|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1660|48|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1685|50|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Flutter Project\\test\\lib\\main.dart|1732|42|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.

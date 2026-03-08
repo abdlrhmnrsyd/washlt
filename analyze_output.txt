@@ -1,0 +1,62 @@
+Analyzing main.dart...
+
+  error - main.dart:145:28 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:208:24 - The argument type 'Object' can't be assigned to the parameter type 'Color?'.  - argument_type_not_assignable
+  error - main.dart:209:36 - Expected to find '('. - expected_token
+  error - main.dart:209:36 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:545:36 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:574:26 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:689:21 - The argument type 'Colors' can't be assigned to the parameter type 'Color'.  - argument_type_not_assignable
+  error - main.dart:689:34 - Expected to find '('. - expected_token
+  error - main.dart:689:34 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:690:21 - The argument type 'Colors' can't be assigned to the parameter type 'Color'.  - argument_type_not_assignable
+  error - main.dart:690:34 - Expected to find '('. - expected_token
+  error - main.dart:690:34 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:713:26 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:850:20 - The argument type 'Object' can't be assigned to the parameter type 'Color?'.  - argument_type_not_assignable
+  error - main.dart:851:32 - Expected to find '('. - expected_token
+  error - main.dart:851:32 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:896:30 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1047:36 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1055:28 - The argument type 'Colors' can't be assigned to the parameter type 'Color?'.  - argument_type_not_assignable
+  error - main.dart:1055:41 - Expected to find '('. - expected_token
+  error - main.dart:1055:41 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:1155:19 - A value of type 'Colors' can't be assigned to a variable of type 'Color'. Try changing the type of the variable, or casting the right-hand type to 'Color'. - invalid_assignment
+  error - main.dart:1155:19 - The default value of an optional parameter must be constant. - non_constant_default_value
+  error - main.dart:1155:32 - Expected to find '('. - expected_token
+  error - main.dart:1155:32 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:1164:26 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1373:26 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1404:34 - The argument type 'Colors' can't be assigned to the parameter type 'Color?'.  - argument_type_not_assignable
+  error - main.dart:1404:47 - Expected to find '('. - expected_token
+  error - main.dart:1404:47 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:1476:40 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1515:30 - The argument type 'Colors' can't be assigned to the parameter type 'Color?'.  - argument_type_not_assignable
+  error - main.dart:1515:43 - Expected to find '('. - expected_token
+  error - main.dart:1515:43 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+  error - main.dart:1519:40 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1637:26 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1712:26 - The name 'white' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - main.dart:1791:22 - A value of type 'Colors' can't be assigned to a variable of type 'Color'. Try changing the type of the variable, or casting the right-hand type to 'Color'. - invalid_assignment
+  error - main.dart:1791:22 - The default value of an optional parameter must be constant. - non_constant_default_value
+  error - main.dart:1791:35 - Expected to find '('. - expected_token
+  error - main.dart:1791:35 - The class 'Colors' doesn't have a constant constructor 'white'. Try calling a different constructor. - const_with_undefined_constructor
+   info - main.dart:28:11 - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:108:44 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:139:36 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:348:26 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:366:34 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:400:40 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:831:54 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:945:27 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:956:56 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:968:44 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:995:44 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:1192:49 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:1193:31 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:1385:28 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:1660:48 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:1685:50 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - main.dart:1732:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+58 issues found.
